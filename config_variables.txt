@@ -1,0 +1,7 @@
+mode=train
+batch_size=2
+pretrained_weights=None
+padding=same
+number_pooling_operations=4
+number_layers=2
+block=standard
